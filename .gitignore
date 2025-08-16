@@ -20,3 +20,9 @@
 
 # VSCode specific
 .vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
